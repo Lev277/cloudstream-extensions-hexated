@@ -1,0 +1,19 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Lev277/cloudstream-extensions-hexated/tree/master",
+        "fileSize": 12962,
+        "status": 1,
+        "authors": [
+            "loklok"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "Loklok",
+        "description": "Watch content from any invidious instance",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Loklok.cs3",
+        "name": "InvidiousProvider"
+    }
