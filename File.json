@@ -3,6 +3,6 @@
   "description": "loklok",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Lev277/cloudstream-extensions-hexated/new/master/File.json"
+    "https://raw.githubusercontent.com/Lev277/cloudstream-extensions-hexated/master/File.json"
   ]
 }
